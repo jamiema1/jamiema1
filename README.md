@@ -8,12 +8,15 @@ Within my github repositories you can find my favourite projects:
 - 💣 Minesweeper
 - 📄 MyWebPage
 - ⚾ BaseballGame
-- 🎮 Platformer
+- 🕹️ Platformer
+- 🎮 ConnectFour
+- 🐍 Snake
 
 ### Hobbies
 
 - 🧗 Bouldering
 - ⛷️ Skiing
+- 🎻 Violin
 
 <!--
 **jamiema1/jamiema1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
