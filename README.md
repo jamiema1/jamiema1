@@ -6,11 +6,11 @@ My name is Jamie Ma. I am currently a student at the University of British Colum
 
 Within my github repositories you can find my favourite projects:
 - 💣 Minesweeper
-- ⚾ BaseballGame
+- ⚾ Baseball Simulator
+- 🩺 Predicting Heart Disease with KNN Classification Algorithm
 - 🐶 AnimalShowcase
 - 🐍 Snake
 - 📄 MyWebPage
-- 🕹️ Platformer
 
 ### Hobbies
 
