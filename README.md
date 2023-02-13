@@ -8,9 +8,11 @@ Within my github repositories you can find my favourite projects:
 - 💣 Minesweeper
 - ⚾ Baseball Simulator
 - 🩺 Predicting Heart Disease with KNN Classification Algorithm
-- 🐶 AnimalShowcase
 - 🐍 Snake
-- 📄 MyWebPage
+- 🎮 Connect Four
+- 🧗 Boulder Tracker
+<!-- - 🐶 AnimalShowcase -->
+<!-- - 📄 MyWebPage -->
 
 ### Hobbies
 
