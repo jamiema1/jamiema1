@@ -5,12 +5,12 @@ My name is Jamie Ma. I am currently a 3nd Year student at the University of Brit
 ### Coding Projects
 
 Within my github repositories you can find my favourite projects:
-- 🧗 Boulder Tracker
-- 💣 Minesweeper
-- ⚾ Baseball Simulator
-- 🩺 Predicting Heart Disease with KNN Classification Algorithm
-- 🐍 Snake
-- 🎮 Connect Four
+- 🧗 [Boulder Tracker](https://github.com/jamiema1/boulder-tracker)
+- 💣 [Minesweeper](https://github.com/jamiema1/Minesweeper)
+- ⚾ [Baseball Simulator](https://github.com/jamiema1/Baseball-Simulator)
+- 🩺 [Predicting Heart Disease with KNN Classification Algorithm](https://github.com/jamiema1/Predicting-Heart-Disease-with-KNN-Algorithm)
+- 🐍 [Snake](https://github.com/jamiema1/Snake)
+- 🎮 [Connect Four](https://github.com/jamiema1/ConnectFour)
 <!-- - 🐶 AnimalShowcase -->
 <!-- - 📄 MyWebPage -->
 
