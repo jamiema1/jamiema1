@@ -1,18 +1,16 @@
 # Welcome!
 
-My name is Jamie Ma. I am currently a 3nd Year student at the University of British Columbia studying in the fields of Computer Science and Mathematics.
+👋 Hi, my name is Jamie. I am a 3rd Year student at the University of British Columbia studying in the fields of Computer Science and Math.
 
 ### Coding Projects
 
 Within my github repositories you can find my favourite projects:
 - 🧗 [Boulder Tracker](https://github.com/jamiema1/boulder-tracker)
+- 📔 [Minute Mood](https://github.com/jamiema1/Minute-Mood)
 - 💣 [Minesweeper](https://github.com/jamiema1/Minesweeper)
-- ⚾ [Baseball Simulator](https://github.com/jamiema1/Baseball-Simulator)
+- 🎮 [2048](https://github.com/jamiema1/2048)
 - 🩺 [Predicting Heart Disease with KNN Classification Algorithm](https://github.com/jamiema1/Predicting-Heart-Disease-with-KNN-Algorithm)
-- 🐍 [Snake](https://github.com/jamiema1/Snake)
-- 🎮 [Connect Four](https://github.com/jamiema1/ConnectFour)
-<!-- - 🐶 AnimalShowcase -->
-<!-- - 📄 MyWebPage -->
+- ⚾ [Baseball Simulator](https://github.com/jamiema1/Baseball-Simulator)
 
 ### Hobbies
 
@@ -26,15 +24,4 @@ I have been playing the violin for about as long as I can remember. It has been 
 
 #### ⚾ Baseball
 
-Growing up, baseball was one of the team sports that I enjoyed playing every spring/summer.
-
-#### ⛷️ Skiing
-
-
-
-
-
-
-
-
-<!-- **jamiema1/jamiema1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Growing up, baseball was one of the team sports that I enjoyed playing every spring/summer. While I no longer play on any team, I still enjoy cheering on my brother and following the Toronto Blue Jays.
