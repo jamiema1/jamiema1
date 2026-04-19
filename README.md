@@ -1,14 +1,12 @@
 # Welcome!
 
-👋 Hi, my name is Jamie and I'm a 4th Year student at the University of British Columbia studying Computer Science and Math.
+👋 Hi, I'm Jamie — a software developer focused on building full-stack applications with an emphasis on clean UI/UX and data-driven features.
 
 ## Projects
 
-Feel free to check out some of my favourite projects below:
-- 🧗 [Boulder Tracker](https://github.com/jamiema1/boulder-tracker)
-- ⛏️ [Mining Eh?](https://github.com/jamiema1/Mining-Eh)
-- 📔 [Minute Mood](https://github.com/jamiema1/Minute-Mood)
-- 💣 [Minesweeper](https://github.com/jamiema1/Minesweeper)
-- 🎮 [2048](https://github.com/jamiema1/2048)
-- 🩺 [Predicting Heart Disease](https://github.com/jamiema1/Predicting-Heart-Disease-with-KNN-Algorithm)
-- ⚾ [Baseball Simulator](https://github.com/jamiema1/Baseball-Simulator)
+Here are a few projects I’m most proud of:
+
+- ⚾ [Baseball Binder](https://github.com/jamiema1/baseball-binder) – A full-stack app for organizing and displaying baseball card collections with a focus on UI/UX  
+- 🧗 [Boulder Tracker](https://github.com/jamiema1/boulder-tracker) – Track and share climbing progress with a full-stack web app  
+- 📊 [Mining Eh?](https://github.com/jamiema1/Mining-Eh) – Interactive data visualizations built with D3  
+- ⚡ **MLB Transactions Notifier** – Python script that scrapes and sends real-time updates to Discord  
